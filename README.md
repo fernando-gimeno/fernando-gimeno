@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 ## About Me
 
 - 🔭 I’m currently seeking for a job as a Front-End Developer, Back-end Developer or Full-Stack Developer
-- 🌱 I’m currently learning Full-Stack Development in [4GeeksAcademy](https://4geeks.com/) and development of FitFusion project with [Igrowker](https://www.igrowker.com)
+- 🌱 I’m currently learning Full-Stack Software Development path in [4GeeksAcademy](https://4geeks.com/)
 - 👯 I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me: fernandogimeno.ief@gmail.com
 
